@@ -6,8 +6,8 @@ To clone with full data:
 
 If you have already cloned the repo, run the following commands:
 ```bash
-- git lfs install
-- git lfs pull
+git lfs install
+git lfs pull
 ```
 ## Installing dependencies
 - Must be on python version 3.12.10 due to constraints on importing spacy
